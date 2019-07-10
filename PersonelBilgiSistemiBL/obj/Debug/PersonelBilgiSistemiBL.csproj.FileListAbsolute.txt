@@ -1,0 +1,15 @@
+C:\Users\dilara\Desktop\DilaraGÖKSU-PersonelBilgiSistemi\PersonelBilgiSistemiBL\bin\Debug\PersonelBilgiSistemiBL.dll.config
+C:\Users\dilara\Desktop\DilaraGÖKSU-PersonelBilgiSistemi\PersonelBilgiSistemiBL\bin\Debug\PersonelBilgiSistemiBL.dll
+C:\Users\dilara\Desktop\DilaraGÖKSU-PersonelBilgiSistemi\PersonelBilgiSistemiBL\bin\Debug\PersonelBilgiSistemiBL.pdb
+C:\Users\dilara\Desktop\DilaraGÖKSU-PersonelBilgiSistemi\PersonelBilgiSistemiBL\bin\Debug\EntityFramework.dll
+C:\Users\dilara\Desktop\DilaraGÖKSU-PersonelBilgiSistemi\PersonelBilgiSistemiBL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dilara\Desktop\DilaraGÖKSU-PersonelBilgiSistemi\PersonelBilgiSistemiBL\bin\Debug\PersonelBilgiSistemiDAL.dll
+C:\Users\dilara\Desktop\DilaraGÖKSU-PersonelBilgiSistemi\PersonelBilgiSistemiBL\bin\Debug\PersonelBilgiSistemiDAL.pdb
+C:\Users\dilara\Desktop\DilaraGÖKSU-PersonelBilgiSistemi\PersonelBilgiSistemiBL\bin\Debug\PersonelBilgiSistemiDAL.dll.config
+C:\Users\dilara\Desktop\DilaraGÖKSU-PersonelBilgiSistemi\PersonelBilgiSistemiBL\bin\Debug\EntityFramework.xml
+C:\Users\dilara\Desktop\DilaraGÖKSU-PersonelBilgiSistemi\PersonelBilgiSistemiBL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dilara\Desktop\DilaraGÖKSU-PersonelBilgiSistemi\PersonelBilgiSistemiBL\obj\Debug\PersonelBilgiSistemiBL.csprojAssemblyReference.cache
+C:\Users\dilara\Desktop\DilaraGÖKSU-PersonelBilgiSistemi\PersonelBilgiSistemiBL\obj\Debug\PersonelBilgiSistemiBL.csproj.CoreCompileInputs.cache
+C:\Users\dilara\Desktop\DilaraGÖKSU-PersonelBilgiSistemi\PersonelBilgiSistemiBL\obj\Debug\PersonelBilgiSistemiBL.csproj.CopyComplete
+C:\Users\dilara\Desktop\DilaraGÖKSU-PersonelBilgiSistemi\PersonelBilgiSistemiBL\obj\Debug\PersonelBilgiSistemiBL.dll
+C:\Users\dilara\Desktop\DilaraGÖKSU-PersonelBilgiSistemi\PersonelBilgiSistemiBL\obj\Debug\PersonelBilgiSistemiBL.pdb
